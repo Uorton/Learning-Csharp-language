@@ -1,16 +1,11 @@
-﻿int NumberA = 25;
-Console.WriteLine(NumberA);
-int NumberB = 6;
-Console.WriteLine(NumberB);
+﻿Console.Write("Введите число: ");
+string number = Console.ReadLine();
 
-if(NumberB * NumberB == NumberA)
+if(number == "3")
 {
-    Console.WriteLine("YES");
+    Console.WriteLine("Среда");
 }
-else
+if(number == "5")
 {
-    Console.Write("NO");
+    Console.WriteLine("Пятница");
 }
-
-
-
