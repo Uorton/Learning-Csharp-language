@@ -5,14 +5,17 @@ void CheckingTheDayOfTheWeek (int dayNumber)
 {
   if (dayNumber == 6 || dayNumber == 7) 
     {
-  Console.WriteLine("(этот день выходной) - да");
+  Console.WriteLine("Этот день выходной? - Да");
     }
   else 
     if (dayNumber < 1 || dayNumber > 7) 
     {
-    Console.WriteLine("это вообще не день недели");
+    Console.WriteLine("Это вообще не день недели");
     }
-  else Console.WriteLine("(этот день не выходной) - нет");
+  else 
+  {
+    Console.WriteLine("Этот день выходной? - Нет");
+  }
 }
 
 CheckingTheDayOfTheWeek(dayNumber);
