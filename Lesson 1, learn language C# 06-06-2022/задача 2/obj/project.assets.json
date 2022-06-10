@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kirba\\Desktop\\лекция по языку C# 04.06.2022\\Lesson 1, learn language C# 06-06-2022\\c sharp\\c sharp.csproj",
-      "projectName": "c sharp",
-      "projectPath": "C:\\Users\\kirba\\Desktop\\лекция по языку C# 04.06.2022\\Lesson 1, learn language C# 06-06-2022\\c sharp\\c sharp.csproj",
+      "projectUniqueName": "C:\\Users\\kirba\\Desktop\\лекция по языку C# 04.06.2022\\Lesson 1, learn language C# 06-06-2022\\задача 2\\задача 2.csproj",
+      "projectName": "задача 2",
+      "projectPath": "C:\\Users\\kirba\\Desktop\\лекция по языку C# 04.06.2022\\Lesson 1, learn language C# 06-06-2022\\задача 2\\задача 2.csproj",
       "packagesPath": "C:\\Users\\kirba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kirba\\Desktop\\лекция по языку C# 04.06.2022\\Lesson 1, learn language C# 06-06-2022\\c sharp\\obj\\",
+      "outputPath": "C:\\Users\\kirba\\Desktop\\лекция по языку C# 04.06.2022\\Lesson 1, learn language C# 06-06-2022\\задача 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kirba\\AppData\\Roaming\\NuGet\\NuGet.Config"

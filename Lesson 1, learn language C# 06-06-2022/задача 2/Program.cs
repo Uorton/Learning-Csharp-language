@@ -1,5 +1,5 @@
 ﻿Console.Write("Введите число: ");
-string number = Console.ReadLine();
+string number = "Console.ReadLine()";
 
 if(number == "3")
 {
