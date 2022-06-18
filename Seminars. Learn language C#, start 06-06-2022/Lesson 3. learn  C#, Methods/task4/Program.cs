@@ -11,4 +11,3 @@ void Distance (int x, int y, int x1, int y1)
 }
 //Distance(3, 6, 2, 1);
 
-
