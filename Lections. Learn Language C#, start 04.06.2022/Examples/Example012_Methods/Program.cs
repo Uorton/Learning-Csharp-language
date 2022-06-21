@@ -104,7 +104,7 @@ for (int i = 2; i <= 10; i++)
 //             012
 // s[3] // r
 
-string Replace(string text, char oldValue, char newValue)
+string Replace (string text, char oldValue, char newValue)
 {
     string result = String.Empty;
 
@@ -118,7 +118,7 @@ string Replace(string text, char oldValue, char newValue)
     return result;
 }
 
-//string newText = Replace(text, ' ', '|');
+string newText = Replace("text", ' ', '|');
 //Console.WriteLine(newText);
 //Console.WriteLine();
 //newText = Replace(newText, 'к', 'К');
