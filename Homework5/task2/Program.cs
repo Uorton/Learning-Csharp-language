@@ -7,7 +7,7 @@ int[] CreateArray()
     for (int i = 0; i < array.Length; i++)
     {
         array[i] = new Random().Next(-10, 20);
-
+        Console.Write($"{array[i]}, ");
     }
     return array;
 }
@@ -23,10 +23,9 @@ void FindNoEvenArray(int[] array)
         {
             sum += array[i];
         }
-    Console.Write($"{array[i]}, ");
 
     }
-    Console.WriteLine("Сумма элементов на нечетных позициях: ");
-    Console.Write(sum);
+    Console.Write("\nСумма элементов на нечетных позициях: ");
+    Console.WriteLine(sum);
 }
 FindNoEvenArray(arr);

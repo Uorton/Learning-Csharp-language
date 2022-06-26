@@ -23,13 +23,10 @@ void FindArray(int [] array)
     {
         if (array[i] % 2 == 0)
         {    
-            Console.Write($"{array[i]}, ");
             number++;
         }
-        else
-        {
-          Console.Write($"{array[i]}, ");
-        }
+        Console.Write($"{array[i]} ");
+
     }
     Console.Write("\nКоличество четных чисел: ");
     Console.Write(number);
