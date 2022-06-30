@@ -1,0 +1,15 @@
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\task 1 variant2.csproj.AssemblyReference.cache
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\task 1 variant2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\task 1 variant2.AssemblyInfoInputs.cache
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\task 1 variant2.AssemblyInfo.cs
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\task 1 variant2.csproj.CoreCompileInputs.cache
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\bin\Debug\net6.0\task 1 variant2.exe
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\bin\Debug\net6.0\task 1 variant2.deps.json
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\bin\Debug\net6.0\task 1 variant2.runtimeconfig.json
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\bin\Debug\net6.0\task 1 variant2.dll
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\bin\Debug\net6.0\task 1 variant2.pdb
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\task 1 variant2.dll
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\refint\task 1 variant2.dll
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\task 1 variant2.pdb
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\task 1 variant2.genruntimeconfig.cache
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Lections. Learn Language C#, start 04.06.2022\Homework6\task 1 variant2\obj\Debug\net6.0\ref\task 1 variant2.dll
