@@ -1,0 +1,15 @@
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\bin\Debug\net6.0\Lesson 3. learn  C#, Methods.exe
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\bin\Debug\net6.0\Lesson 3. learn  C#, Methods.deps.json
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\bin\Debug\net6.0\Lesson 3. learn  C#, Methods.runtimeconfig.json
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\bin\Debug\net6.0\Lesson 3. learn  C#, Methods.dll
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\bin\Debug\net6.0\Lesson 3. learn  C#, Methods.pdb
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\Lesson 3. learn  C#, Methods.csproj.AssemblyReference.cache
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\Lesson 3. learn  C#, Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\Lesson 3. learn  C#, Methods.AssemblyInfoInputs.cache
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\Lesson 3. learn  C#, Methods.AssemblyInfo.cs
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\Lesson 3. learn  C#, Methods.csproj.CoreCompileInputs.cache
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\Lesson 3. learn  C#, Methods.dll
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\refint\Lesson 3. learn  C#, Methods.dll
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\Lesson 3. learn  C#, Methods.pdb
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\Lesson 3. learn  C#, Methods.genruntimeconfig.cache
+C:\Users\kirba\Desktop\Lections and Seminars to learn language C#, works\Seminars. Learn language C#, start 06-06-2022\Lesson 3. learn  C#, Methods\obj\Debug\net6.0\ref\Lesson 3. learn  C#, Methods.dll
