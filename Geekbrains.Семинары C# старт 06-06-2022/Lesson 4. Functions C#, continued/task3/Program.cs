@@ -10,12 +10,12 @@ int Composition (int N)
     {
         result = result * i;
     }
-    return result;
     }
     else
     {
         System.Console.WriteLine("0");
     } 
+    return result;
 }
 
 Console.WriteLine(Composition(5));

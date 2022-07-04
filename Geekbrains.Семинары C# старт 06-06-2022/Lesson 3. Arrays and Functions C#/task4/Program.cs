@@ -9,5 +9,5 @@ void Distance (int x, int y, int x1, int y1)
     double sqr = Math.Sqrt(d);
     Console.WriteLine(sqr);
 }
-//Distance(3, 6, 2, 1);
+Distance(3, 6, 2, 1);
 

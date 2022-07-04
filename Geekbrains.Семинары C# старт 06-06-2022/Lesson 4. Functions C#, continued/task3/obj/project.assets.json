@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Seminars. Learn language C#, start 06-06-2022\\Lesson 4, learn C#, Methods2, 16-06-2022\\task3\\task3.csproj",
+      "projectUniqueName": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Geekbrains.Семинары C# старт 06-06-2022\\Lesson 4. Functions C#, continued\\task3\\task3.csproj",
       "projectName": "task3",
-      "projectPath": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Seminars. Learn language C#, start 06-06-2022\\Lesson 4, learn C#, Methods2, 16-06-2022\\task3\\task3.csproj",
+      "projectPath": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Geekbrains.Семинары C# старт 06-06-2022\\Lesson 4. Functions C#, continued\\task3\\task3.csproj",
       "packagesPath": "C:\\Users\\kirba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Seminars. Learn language C#, start 06-06-2022\\Lesson 4, learn C#, Methods2, 16-06-2022\\task3\\obj\\",
+      "outputPath": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Geekbrains.Семинары C# старт 06-06-2022\\Lesson 4. Functions C#, continued\\task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kirba\\AppData\\Roaming\\NuGet\\NuGet.Config"
