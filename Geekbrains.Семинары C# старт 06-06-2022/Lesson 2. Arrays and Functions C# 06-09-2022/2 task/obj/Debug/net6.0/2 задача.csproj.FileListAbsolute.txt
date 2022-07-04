@@ -1,0 +1,15 @@
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\bin\Debug\net6.0\2 задача.exe
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\bin\Debug\net6.0\2 задача.deps.json
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\bin\Debug\net6.0\2 задача.runtimeconfig.json
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\bin\Debug\net6.0\2 задача.dll
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\bin\Debug\net6.0\2 задача.pdb
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\2 задача.csproj.AssemblyReference.cache
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\2 задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\2 задача.AssemblyInfoInputs.cache
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\2 задача.AssemblyInfo.cs
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\2 задача.csproj.CoreCompileInputs.cache
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\2 задача.dll
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\refint\2 задача.dll
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\2 задача.pdb
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\2 задача.genruntimeconfig.cache
+C:\Users\kirba\Desktop\лекция по языку C# 04.06.2022\Lesson2 C#\2 задача\obj\Debug\net6.0\ref\2 задача.dll
