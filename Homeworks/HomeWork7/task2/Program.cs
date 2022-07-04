@@ -33,33 +33,35 @@ void PrintArray(int[,] array)
 
 }
 
-void FindArray(int[,] array)
+void FindElementArray(int[,] array, int n, int m)
 {
-    int element;
+    int element = 0;
+    bool isFinding = false;
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            element = array[i,j];
-            if (element == i && element == j)
+            if (i == n && j == m) 
             {
-                Console.WriteLine("Такого элемента нет");                
+                element = array[i,j];
+                isFinding = true;
+                break;
             }
-            else
-            {
-                Console.WriteLine($"Позиция элемента в двумерном массиве: {element}");
-            }
-            break;
+            
         }
-        Console.WriteLine();
+    }
+    if (isFinding)
+    {
+      Console.WriteLine(element);
+    }
+    else
+    {
+      Console.WriteLine("Элемент на заданной позиции не найден");
     }
 }
 
 int[,] arr = CreateArray(3, 4);
 FillArray(arr);
 PrintArray(arr);
-FindArray(arr);
+FindElementArray(arr, 1, 2);
 Console.WriteLine();
-
-
-
