@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Seminars. Learn language C#, start 06-06-2022\\Lesson 6. Arrays and Recursive 23-06-2022\\task1\\task1.csproj",
+      "projectUniqueName": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Geekbrains.Семинары C# старт 06-06-2022\\Lesson 6. Two-Dimensional Arrays and Recursive\\task1\\task1.csproj",
       "projectName": "task1",
-      "projectPath": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Seminars. Learn language C#, start 06-06-2022\\Lesson 6. Arrays and Recursive 23-06-2022\\task1\\task1.csproj",
+      "projectPath": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Geekbrains.Семинары C# старт 06-06-2022\\Lesson 6. Two-Dimensional Arrays and Recursive\\task1\\task1.csproj",
       "packagesPath": "C:\\Users\\kirba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Seminars. Learn language C#, start 06-06-2022\\Lesson 6. Arrays and Recursive 23-06-2022\\task1\\obj\\",
+      "outputPath": "C:\\Users\\kirba\\Desktop\\Lections and Seminars to learn language C#, works\\Geekbrains.Семинары C# старт 06-06-2022\\Lesson 6. Two-Dimensional Arrays and Recursive\\task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kirba\\AppData\\Roaming\\NuGet\\NuGet.Config"
